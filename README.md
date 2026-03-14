@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wreepyy&show_icons=true&theme=default" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WreepyyDEV&show_icons=true&theme=default" height="170px" />
 </p>
 
 ### 🛠️ Languages and Tools:
